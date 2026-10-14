@@ -1,0 +1,6 @@
+company_name,growth_score,profit_score,cash_score,safety_score,composite_score,revenue_cagr_pct,net_margin_pct,cfo_to_np,debt_ratio_pct
+网易,0.3,1.5,0.8,1.0,3.6,3.9,30.0,1.50,25.4
+快手,1.2,0.9,0.6,0.6,3.3,12.4,13.0,1.44,51.6
+腾讯控股,0.6,1.2,0.4,0.8,3.0,5,29.9,1.35,39.1
+哔哩哔哩,0.9,0.6,1.0,0.2,2.7,9.2,3.9,2.00,62.2
+美团,1.5,0.3,0.2,0.4,2.4,16.6,-6.4,-1.00,56.5
