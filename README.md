@@ -70,7 +70,7 @@ mysql -u root -p --local-infile=1 < sql/01_import_data.sql
 mysql -u root -p internet_finance < sql/analysis/01_收入与增长分析.sql
 ```
 
-## 5. SQL 技能点索引（供面试官快速定位）
+## 5. SQL 技能点索引
 
 | 技能 | 出现位置 |
 |---|---|
